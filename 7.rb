@@ -23,5 +23,6 @@ class B
     include M
 end
 
+
 M::Fo.bar
 B.new.bar
